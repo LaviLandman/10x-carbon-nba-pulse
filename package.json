@@ -1,0 +1,25 @@
+{
+  "name": "10x-carbon-nba-pulse",
+  "version": "1.0.0",
+  "description": "NBA News & Updates Hub styled with IBM Carbon Design System",
+  "type": "module",
+  "scripts": {
+    "start": "npx serve . -l 3000",
+    "dev": "npx serve . -l 3000",
+    "build": "esbuild js/app.js --bundle --outfile=js/bundle.js --format=iife"
+  },
+  "keywords": [
+    "carbon-design-system",
+    "ibm-carbon",
+    "nba",
+    "frontend"
+  ],
+  "author": "Lavi Landman",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@carbon/styles": "^1.118.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
