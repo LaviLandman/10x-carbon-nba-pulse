@@ -105,4 +105,4 @@ node --check js/data.js
   - Step 6: Manual styling customization using CSS (PAUSED / AWAITING INSTRUCTION).
   - Step 7: Create styling skill for this design system (COMPLETED - project skill at `.agents/skills/carbon-design-system/`).
   - Step 8: Build brand guide page (COMPLETED - standalone page at `brand-guide.html`).
-  - Step 9: Deploy to GitHub (`https://github.com/LaviLandman/10x-carbon-nba-pulse`) and configure GitHub Pages (DEFERRED).
+  - Step 9: Deploy to GitHub (`https://github.com/LaviLandman/10x-carbon-nba-pulse`) and configure GitHub Pages (COMPLETED - live at `https://lavilandman.github.io/10x-carbon-nba-pulse/`).

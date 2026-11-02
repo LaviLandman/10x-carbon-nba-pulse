@@ -13,19 +13,19 @@ Deploy Courtside Pulse (`10x-carbon-nba-pulse`) to a public GitHub repository un
        Files: `.git/`, `.gitignore`
        Done when: Git repository is initialized with default branch `main`, and `.gitignore` ignores `node_modules`, `.DS_Store`, and build artifacts.
 
-- [ ] 3. Create initial Git commit
+- [x] 3. Create initial Git commit
        Files: Repository source tree
        Done when: Initial commit is recorded on branch `main` containing project files, skill, brand guide, and configuration.
 
-- [ ] 4. Switch GitHub CLI to LaviLandman and create public repository
+- [x] 4. Switch GitHub CLI to LaviLandman and create public repository
        Files: Remote `origin`
        Done when: GitHub repository `https://github.com/LaviLandman/10x-carbon-nba-pulse` is created as public and code is pushed to `origin/main`.
 
-- [ ] 5. Enable and configure GitHub Pages
+- [x] 5. Enable and configure GitHub Pages
        Files: GitHub repository settings
        Done when: GitHub Pages is enabled on the `main` branch root `/`, returning public site URL `https://lavilandman.github.io/10x-carbon-nba-pulse/`.
 
-- [ ] 6. Update project roadmap documentation
+- [x] 6. Update project roadmap documentation
        Files: `AGENTS.md`
        Done when: `AGENTS.md` marks Step 9 as completed with the live repository and Pages links.
 
